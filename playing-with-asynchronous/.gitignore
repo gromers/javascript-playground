@@ -1,0 +1,5 @@
+# No packages in the repo
+node_modules/
+
+# Don't commit any secrets from .env to the repo
+.env
